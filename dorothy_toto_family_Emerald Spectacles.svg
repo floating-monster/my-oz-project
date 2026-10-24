@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="264mm"
+   height="158mm"
+   viewBox="0 0 264 158"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="dorothy_toto_family_em.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.51780096"
+     inkscape:cx="454.80796"
+     inkscape:cy="424.87368"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <radialGradient
+       id="bgGlow"
+       cx="387.29834"
+       cy="387.29834"
+       r="464.75803"
+       gradientTransform="matrix(0.3415756,0,0,0.20494537,-0.84896443,0.02327201)"
+       fx="387.29834"
+       fy="387.29834"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#e8f8f0"
+         id="stop1" />
+      <stop
+         offset="70%"
+         stop-color="#c2ebd4"
+         id="stop2" />
+      <stop
+         offset="100%"
+         stop-color="#99d8b4"
+         id="stop3" />
+    </radialGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tinMetal"
+       id="linearGradient40"
+       x1="123.1084"
+       y1="127.58877"
+       x2="167.30116"
+       y2="171.78152"
+       gradientTransform="scale(0.47519096,2.1044171)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="tinMetal"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="1">
+      <stop
+         offset="0%"
+         stop-color="#e6e6e6"
+         id="stop4" />
+      <stop
+         offset="50%"
+         stop-color="#aeaeae"
+         id="stop5" />
+      <stop
+         offset="100%"
+         stop-color="#7b7b7b"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tinMetal"
+       id="linearGradient41"
+       x1="190.44975"
+       y1="127.58877"
+       x2="234.64252"
+       y2="171.78152"
+       gradientTransform="scale(0.47519096,2.1044171)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tinMetal"
+       id="linearGradient42"
+       x1="40.490086"
+       y1="429.41995"
+       x2="68.040039"
+       y2="456.96991"
+       gradientTransform="scale(1.1978241,0.83484711)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tinMetal"
+       id="linearGradient43"
+       x1="73.883972"
+       y1="429.41995"
+       x2="101.43392"
+       y2="456.96991"
+       gradientTransform="scale(1.1978241,0.83484711)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tinMetal-9"
+       id="linearGradient44"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0112551,0,0,0.70481417,13.205304,7.6171035)"
+       x1="73.883972"
+       y1="429.41995"
+       x2="101.43392"
+       y2="456.96991" />
+    <linearGradient
+       id="tinMetal-9"
+       x1="73.883972"
+       y1="429.41995"
+       x2="101.43392"
+       y2="456.96991"
+       gradientTransform="matrix(1.0112551,0,0,0.70481417,13.205304,7.6171035)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#e6e6e6"
+         id="stop4-20" />
+      <stop
+         offset="50%"
+         stop-color="#aeaeae"
+         id="stop5-2" />
+      <stop
+         offset="100%"
+         stop-color="#7b7b7b"
+         id="stop6-37" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tinMetal-9"
+       id="linearGradient58"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0112551,0,0,0.70481417,-19.812447,5.3164646)"
+       x1="73.883972"
+       y1="429.41995"
+       x2="101.43392"
+       y2="456.96991" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tinMetal"
+       id="linearGradient45"
+       x1="52.713364"
+       y1="130.40552"
+       x2="153.91133"
+       y2="231.60349"
+       gradientTransform="scale(0.82274772,1.2154394)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tinMetal"
+       id="linearGradient46"
+       x1="17.625063"
+       y1="131.75604"
+       x2="71.899399"
+       y2="186.0304"
+       gradientTransform="scale(0.77707986,1.286869)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="tinMetal-7"
+       x1="17.625063"
+       y1="131.75604"
+       x2="71.899399"
+       y2="186.0304"
+       gradientTransform="matrix(-0.77707986,0,0,1.286869,169.11246,1.8469496)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#e6e6e6"
+         id="stop4-0" />
+      <stop
+         offset="50%"
+         stop-color="#aeaeae"
+         id="stop5-9" />
+      <stop
+         offset="100%"
+         stop-color="#7b7b7b"
+         id="stop6-3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tinMetal"
+       id="linearGradient47"
+       x1="58.5"
+       y1="93.5"
+       x2="111.5"
+       y2="146.5"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="tinMetal-6"
+       x1="58.5"
+       y1="93.5"
+       x2="111.5"
+       y2="146.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(9.2037764,31.952799)">
+      <stop
+         offset="0%"
+         stop-color="#e6e6e6"
+         id="stop4-2" />
+      <stop
+         offset="50%"
+         stop-color="#aeaeae"
+         id="stop5-6" />
+      <stop
+         offset="100%"
+         stop-color="#7b7b7b"
+         id="stop6-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tinMetal"
+       id="linearGradient48"
+       x1="84"
+       y1="113.38197"
+       x2="97.236069"
+       y2="126.61803"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tinMetal"
+       id="linearGradient49"
+       x1="45.471699"
+       y1="29.868811"
+       x2="116.73764"
+       y2="101.13475"
+       gradientTransform="scale(1.0480285,0.95417256)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#tinMetal"
+       id="linearGradient50"
+       x1="94.028809"
+       y1="11.762353"
+       x2="108.31166"
+       y2="26.04521"
+       gradientTransform="scale(0.84016805,1.1902381)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#silverShoe"
+       id="linearGradient63"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.4957176,0.6685754)"
+       x1="129.53648"
+       y1="707.55927"
+       x2="156.74849"
+       y2="734.7713" />
+    <linearGradient
+       id="silverShoe"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="1">
+      <stop
+         offset="0%"
+         stop-color="#ffffff"
+         id="stop4-1" />
+      <stop
+         offset="50%"
+         stop-color="#cfd8dc"
+         id="stop5-29" />
+      <stop
+         offset="100%"
+         stop-color="#90a4ae"
+         id="stop6-31" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#silverShoe"
+       id="linearGradient64"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.4878922,0.67209172)"
+       x1="165.01038"
+       y1="703.85736"
+       x2="192.38625"
+       y2="731.23328" />
+    <filter
+       id="glassShine-1-8-9-5"
+       x="-0.055895573"
+       y="-0.10554344"
+       width="1.1117911"
+       height="1.2110869">
+      <feGaussianBlur
+         stdDeviation="0.8"
+         result="blur"
+         id="feGaussianBlur6-9-2-6-9-6" />
+      <feMerge
+         id="feMerge7-4-9-0-0-6">
+        <feMergeNode
+           in="blur"
+           id="feMergeNode6-7-3-4-8-4" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode7-8-9-8-1-0" />
+      </feMerge>
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       width="264.58334"
+       height="158.75"
+       fill="url(#bgGlow)"
+       id="rect7"
+       x="-0.84895331"
+       y="0.023270709"
+       style="fill:url(#bgGlow);stroke-width:0.264583" />
+    <path
+       d="m -1.6039508,137.56144 q 132.2918108,-13.22916 264.5834808,0 v 21.16667 H -1.6039508 Z"
+       fill="#ebd06a"
+       stroke="#3a5a40"
+       stroke-width="0.79375"
+       id="path7-0"
+       style="fill:#008000" />
+    <path
+       d="m -1.6039508,142.85311 q 132.2918108,-13.22917 264.5834808,0"
+       fill="none"
+       stroke="#d4b235"
+       stroke-width="0.529167"
+       stroke-dasharray="20, 10"
+       id="path8-7"
+       style="fill:none;stroke:#74b235;stroke-opacity:1" />
+    <g
+       id="scarecrow"
+       transform="matrix(0.26458333,0,0,0.26458333,26.971049,39.665612)">
+      <!-- 몸통/짚/파란 옷 -->
+      <path
+         d="M 70,230 40,330 h 35 l 15,-80 15,80 h 35 L 110,230 Z"
+         fill="#2b4c7e"
+         stroke="#111111"
+         stroke-width="3"
+         id="path9-8" />
+      <!-- 짚 다리 끝 -->
+      <path
+         d="m 50,330 -10,30 m 25,-30 v 35 m 50,-35 v 35 m 15,-35 10,30"
+         stroke="#d4a359"
+         stroke-width="4"
+         id="path10-6" />
+      <path
+         d="m 59.241269,330.93973 -10,30 m 25,-30 v 35 m 50.000001,-35 v 35 m 15,-35 10,30"
+         stroke="#d4a359"
+         stroke-width="4"
+         id="path10-6-2" />
+      <!-- 파란 파카/재킷 -->
+      <path
+         d="m 45,150 q 45,-20 90,0 l 15,80 H 30 Z"
+         fill="#3b6998"
+         stroke="#111111"
+         stroke-width="3"
+         id="path11-8" />
+      <path
+         d="m 161.20106,217.26982 15,15"
+         style="stroke:#d4a359;stroke-width:4"
+         id="path1-0" />
+      <path
+         d="m 172.23628,213.65943 7.48922,7.48922"
+         style="stroke:#d4a359;stroke-width:4"
+         id="path1-0-5"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 25.555139,223.14377 -7.48922,7.48922"
+         style="stroke:#d4a359;stroke-width:4"
+         id="path1-0-5-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 19.23627,214.65943 -15,15"
+         style="stroke:#d4a359;stroke-width:4"
+         id="path1-0-1" />
+      <!-- 누더기 패치 -->
+      <rect
+         x="55"
+         y="170"
+         width="20"
+         height="20"
+         fill="#cc5a37"
+         stroke="#111111"
+         stroke-width="2"
+         transform="rotate(10,65,180)"
+         id="rect11" />
+      <path
+         d="m 17.905599,207.70117 -14.9999998,15 m 19.9999998,-5 -14.9999998,15"
+         stroke="#d4a359"
+         stroke-width="4"
+         id="path14-8" />
+      <!-- 팔 -->
+      <path
+         d="m 45,160 -35,50 15,10 25,-40"
+         fill="#3b6998"
+         stroke="#111111"
+         stroke-width="3"
+         id="path12-4" />
+      <path
+         d="m 135,160 35,50 -15,10 -25,-40"
+         fill="#3b6998"
+         stroke="#111111"
+         stroke-width="3"
+         id="path13-3" />
+      <!-- 장갑/짚 손 -->
+      <path
+         d="m 166.63268,215.37447 15,15 m -24,-9 15,15"
+         stroke="#d4a359"
+         stroke-width="4"
+         id="path15-1"
+         sodipodi:nodetypes="cccc" />
+      <!-- 머리 (자루) -->
+      <!-- 얼굴 이목구비 -->
+      <!-- 원작 뾰족 모자 -->
+      <!-- 녹색 에메랄드 안경 -->
+      <g
+         id="g58"
+         transform="translate(0,4)">
+        <circle
+           cx="90"
+           cy="100"
+           r="35"
+           fill="#e2c9a5"
+           stroke="#111111"
+           stroke-width="3"
+           id="circle15" />
+        <circle
+           cx="78"
+           cy="95"
+           r="5"
+           fill="#111111"
+           id="circle16" />
+        <circle
+           cx="102"
+           cy="95"
+           r="5"
+           fill="#111111"
+           id="circle17" />
+        <path
+           d="m 90,98 -5,10 h 10 z"
+           fill="#cc5a37"
+           stroke="#111111"
+           stroke-width="1"
+           id="path17-4" />
+        <path
+           d="m 75,120 q 15,10 30,0"
+           fill="none"
+           stroke="#111111"
+           stroke-width="3"
+           stroke-dasharray="4, 2"
+           id="path18-9" />
+        <path
+           d="m 45,90 c 0,0 35,-80 45,-80 10,0 45,80 45,80 z"
+           fill="#223859"
+           stroke="#111111"
+           stroke-width="3"
+           id="path19-20" />
+        <ellipse
+           cx="90"
+           cy="90"
+           rx="55"
+           ry="12"
+           fill="#2b4c7e"
+           stroke="#111111"
+           stroke-width="3"
+           id="ellipse19" />
+        <g
+           class="emerald-glasses"
+           id="g22">
+          <circle
+             cx="77"
+             cy="97"
+             r="14"
+             fill="#2ec4b6"
+             fill-opacity="0.6"
+             stroke="#1b4332"
+             stroke-width="3"
+             id="circle19" />
+          <circle
+             cx="103"
+             cy="97"
+             r="14"
+             fill="#2ec4b6"
+             fill-opacity="0.6"
+             stroke="#1b4332"
+             stroke-width="3"
+             id="circle20" />
+          <line
+             x1="91"
+             y1="97"
+             x2="89"
+             y2="97"
+             stroke="#1b4332"
+             stroke-width="3"
+             id="line20" />
+          <path
+             d="M 63,97 50,93 m 67,4 13,-4"
+             stroke="#1b4332"
+             stroke-width="2"
+             id="path20-6" />
+          <!-- 안경 리본 끈 -->
+          <path
+             d="M 90,83 V 70"
+             stroke="#1b4332"
+             stroke-width="2"
+             id="path21-8" />
+          <path
+             d="m 85,70 q 5,-5 10,0 -5,5 -10,0"
+             fill="#2ec4b6"
+             stroke="#1b4332"
+             id="path22-9" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="tinman"
+       transform="matrix(0.26458333,0,0,0.26458333,85.179382,37.019782)">
+      <!-- 관절/다리 -->
+      <rect
+         x="60"
+         y="270"
+         width="18"
+         height="90"
+         fill="url(#tinMetal)"
+         stroke="#111111"
+         stroke-width="3"
+         id="rect22"
+         style="fill:url(#linearGradient40)" />
+      <rect
+         x="92"
+         y="270"
+         width="18"
+         height="90"
+         fill="url(#tinMetal)"
+         stroke="#111111"
+         stroke-width="3"
+         id="rect23"
+         style="fill:url(#linearGradient41)" />
+      <!-- 발 -->
+      <path
+         d="m 50,360 h 30 v 20 H 50 Z"
+         fill="url(#tinMetal)"
+         stroke="#111111"
+         stroke-width="3"
+         id="path23-2"
+         style="fill:url(#linearGradient42)" />
+      <path
+         d="m 90,360 h 30 v 20 H 90 Z"
+         fill="url(#tinMetal)"
+         stroke="#111111"
+         stroke-width="3"
+         id="path24-6"
+         style="fill:url(#linearGradient43)" />
+      <path
+         d="m 93.666431,313.06766 h 16.279279 l 4.5688,15.36193 H 89.187211 Z"
+         fill="url(#tinMetal)"
+         stroke="#111111"
+         stroke-width="2.53273"
+         id="path24-5"
+         style="fill:url(#linearGradient44)"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         d="m 60.648679,310.76702 h 16.27928 l 4.5688,15.36193 H 56.16946 Z"
+         fill="url(#tinMetal)"
+         stroke="#111111"
+         stroke-width="2.53273"
+         id="path24-5-8"
+         style="fill:url(#linearGradient58)"
+         sodipodi:nodetypes="ccccc" />
+      <!-- 몸통 (깔때기/통 모양) -->
+      <path
+         d="m 45,160 h 80 L 115,280 H 55 Z"
+         fill="url(#tinMetal)"
+         stroke="#111111"
+         stroke-width="3"
+         id="path25-6"
+         style="fill:url(#linearGradient45)" />
+      <!-- 리벳 도트 -->
+      <circle
+         cx="55"
+         cy="175"
+         r="2"
+         fill="#111111"
+         id="circle25" />
+      <circle
+         cx="55"
+         cy="265"
+         r="2"
+         fill="#111111"
+         id="circle26" />
+      <circle
+         cx="115"
+         cy="175"
+         r="2"
+         fill="#111111"
+         id="circle27" />
+      <circle
+         cx="115"
+         cy="265"
+         r="2"
+         fill="#111111"
+         id="circle28" />
+      <!-- 팔 & 도끼 -->
+      <path
+         d="m 45,170 -30,60 13,8 27,-48"
+         fill="url(#tinMetal)"
+         stroke="#111111"
+         stroke-width="2"
+         id="path28-4"
+         style="fill:url(#linearGradient46)" />
+      <path
+         d="m 124.11246,171.84695 30,60 -13,8 -27,-48"
+         fill="url(#tinMetal)"
+         stroke="#111111"
+         stroke-width="2"
+         id="path28-6"
+         style="fill:url(#tinMetal-7)" />
+      <path
+         style="fill:#cccccc;stroke:#000000;stroke-width:1.88976"
+         d="m 18.946227,225.98169 -16.1290295,2.12224 2.12224,4.24448 10.1867495,-1.27334 -9.7622995,9.7623 1.8039,1.16724 9.9745295,-8.38285 1.16724,1.06112 -9.8684295,11.14176 5.1994895,2.22835 7.8523,-12.09677 1.59168,0.53056 -6.47284,13.26401 5.09338,2.75891 4.88116,-13.68845 2.44057,0.955 -2.33446,11.77844 5.09338,-0.10611 1.16723,-17.6146 z"
+         id="path58-7" />
+      <!-- 도끼 -->
+      <rect
+         x="5"
+         y="180"
+         width="8"
+         height="130"
+         fill="#5c3d2e"
+         stroke="#111111"
+         stroke-width="2"
+         transform="rotate(-15,5,180)"
+         id="rect28" />
+      <path
+         d="m -10,185 q 20,-25 35,0 -15,25 -35,0 z"
+         fill="#d6d6d6"
+         stroke="#111111"
+         stroke-width="2"
+         id="path29-95" />
+      <!-- 머리 & 깔때기 모자 -->
+      <rect
+         x="60"
+         y="95"
+         width="50"
+         height="50"
+         rx="5"
+         fill="url(#tinMetal)"
+         stroke="#111111"
+         stroke-width="3"
+         id="rect29"
+         style="fill:url(#linearGradient47)" />
+      <rect
+         x="76.556961"
+         y="143.15984"
+         width="17.585936"
+         height="19.986992"
+         rx="5"
+         fill="url(#tinMetal)"
+         stroke="#111111"
+         stroke-width="3"
+         id="rect29-8"
+         style="fill:url(#tinMetal-6)" />
+      <!-- 단추 코 -->
+      <polygon
+         points="85,115 95,120 85,125 "
+         fill="url(#tinMetal)"
+         stroke="#111111"
+         stroke-width="2"
+         id="polygon29"
+         style="fill:url(#linearGradient48)" />
+      <!-- 깔때기 모자 -->
+      <path
+         d="m 50,95 h 70 L 90,30 H 80 Z"
+         fill="url(#tinMetal)"
+         stroke="#111111"
+         stroke-width="3"
+         id="path30-0"
+         style="fill:url(#linearGradient49)" />
+      <rect
+         x="80"
+         y="15"
+         width="10"
+         height="15"
+         fill="url(#tinMetal)"
+         stroke="#111111"
+         stroke-width="2"
+         id="rect30"
+         style="fill:url(#linearGradient50)" />
+      <!-- 녹색 에메랄드 안경 -->
+      <g
+         class="emerald-glasses"
+         id="g32">
+        <circle
+           cx="73"
+           cy="115"
+           r="12"
+           fill="#2ec4b6"
+           fill-opacity="0.6"
+           stroke="#1b4332"
+           stroke-width="3"
+           id="circle30" />
+        <circle
+           cx="97"
+           cy="115"
+           r="12"
+           fill="#2ec4b6"
+           fill-opacity="0.6"
+           stroke="#1b4332"
+           stroke-width="3"
+           id="circle31" />
+        <line
+           x1="85"
+           y1="115"
+           x2="85"
+           y2="115"
+           stroke="#1b4332"
+           stroke-width="3"
+           id="line31" />
+        <path
+           d="m 61,115 -3,-5 m 51,5 3,-5"
+           stroke="#1b4332"
+           stroke-width="2"
+           id="path31-4" />
+        <path
+           d="M 85,103 V 95"
+           stroke="#1b4332"
+           stroke-width="2"
+           id="path32-8" />
+        <circle
+           cx="85"
+           cy="93"
+           r="3"
+           fill="#2ec4b6"
+           stroke="#1b4332"
+           id="circle32" />
+      </g>
+      <path
+         style="fill:#b3b3b3;stroke:#000000;stroke-width:1.88976"
+         d="m 154.90662,232.24109 16.12903,2.12224 -2.12224,4.24448 -10.18675,-1.27334 9.7623,9.7623 -1.8039,1.16724 -9.97453,-8.38285 -1.16724,1.06112 9.86843,11.14176 -5.19949,2.22835 -7.8523,-12.09677 -1.59168,0.53056 6.47284,13.26401 -5.09338,2.75891 -4.88116,-13.68845 -2.44057,0.955 2.33446,11.77844 -5.09338,-0.10611 -1.16723,-17.6146 z"
+         id="path58-71" />
+    </g>
+    <g
+       id="lion"
+       transform="matrix(0.26458333,0,0,0.26458333,188.36701,26.436442)">
+      <!-- 포즈: 앉아있는 거대한 사자 -->
+      <!-- 갈기 (Mane) -->
+      <path
+         d="M 80,40 C 0,60 -10,200 40,270 80,320 180,320 210,260 250,180 230,60 140,40 Z"
+         fill="#c67d34"
+         stroke="#111111"
+         stroke-width="4"
+         id="path48-5" />
+      <path
+         d="M 90,60 C 20,80 10,180 50,240 90,280 160,280 190,230 220,160 200,80 130,60 Z"
+         fill="#dd923c"
+         id="path49-9" />
+      <!-- 몸통/뒷다리 -->
+      <path
+         d="M 50,250 C 30,280 30,380 80,420 h 110 c 40,-40 30,-110 -10,-170 z"
+         fill="#e09f48"
+         stroke="#111111"
+         stroke-width="4"
+         id="path50-4" />
+      <!-- 앞발 -->
+      <rect
+         x="85"
+         y="320"
+         width="30"
+         height="110"
+         rx="15"
+         fill="#e09f48"
+         stroke="#111111"
+         stroke-width="3"
+         id="rect50" />
+      <rect
+         x="135"
+         y="320"
+         width="30"
+         height="110"
+         rx="15"
+         fill="#e09f48"
+         stroke="#111111"
+         stroke-width="3"
+         id="rect51" />
+      <!-- 꼬리 -->
+      <path
+         d="m 210,380 q 60,10 50,-50"
+         fill="none"
+         stroke="#111111"
+         stroke-width="5"
+         id="path51-9" />
+      <circle
+         cx="260"
+         cy="325"
+         r="12"
+         fill="#c67d34"
+         stroke="#111111"
+         stroke-width="2"
+         id="circle51" />
+      <!-- 얼굴 -->
+      <ellipse
+         cx="125"
+         cy="150"
+         rx="45"
+         ry="50"
+         fill="#f3be6b"
+         stroke="#111111"
+         stroke-width="3"
+         id="ellipse51" />
+      <!-- 주둥이 -->
+      <ellipse
+         cx="125"
+         cy="175"
+         rx="25"
+         ry="18"
+         fill="#fceade"
+         stroke="#111111"
+         stroke-width="2"
+         id="ellipse52" />
+      <polygon
+         points="120,165 130,165 125,173 "
+         fill="#cc5a37"
+         stroke="#111111"
+         stroke-width="1"
+         id="polygon52" />
+      <path
+         d="m 125,173 v 10 m -10,0 q 10,7 20,0"
+         fill="none"
+         stroke="#111111"
+         stroke-width="2"
+         id="path52-0" />
+      <!-- 두려워하는 눈썹 & 눈 -->
+      <path
+         d="m 100,130 q 10,-10 15,2"
+         fill="none"
+         stroke="#111111"
+         stroke-width="3"
+         id="path53-9" />
+      <path
+         d="m 150,130 q -10,-10 -15,2"
+         fill="none"
+         stroke="#111111"
+         stroke-width="3"
+         id="path54-1" />
+      <!-- 녹색 에메랄드 안경 -->
+      <g
+         class="emerald-glasses"
+         id="g57">
+        <circle
+           cx="105"
+           cy="140"
+           r="18"
+           fill="#2ec4b6"
+           fill-opacity="0.6"
+           stroke="#1b4332"
+           stroke-width="3.5"
+           id="circle54" />
+        <circle
+           cx="145"
+           cy="140"
+           r="18"
+           fill="#2ec4b6"
+           fill-opacity="0.6"
+           stroke="#1b4332"
+           stroke-width="3.5"
+           id="circle55" />
+        <line
+           x1="123"
+           y1="140"
+           x2="127"
+           y2="140"
+           stroke="#1b4332"
+           stroke-width="3.5"
+           id="line55" />
+        <path
+           d="M 87,140 70,130 m 93,10 17,-10"
+           stroke="#1b4332"
+           stroke-width="3"
+           id="path55-7" />
+        <!-- 모자에 달린 리본 끈 -->
+        <path
+           d="M 125,122 V 75"
+           stroke="#1b4332"
+           stroke-width="2.5"
+           id="path56-7" />
+        <path
+           d="m 115,75 q 10,-10 20,0 -10,10 -20,0"
+           fill="#2ec4b6"
+           stroke="#1b4332"
+           stroke-width="2"
+           id="path57-1" />
+      </g>
+    </g>
+    <text
+       x="127.5127"
+       y="15.853105"
+       font-family="Georgia, serif"
+       font-size="7.40833px"
+       font-weight="bold"
+       fill="#1b4332"
+       text-anchor="middle"
+       id="text57"
+       style="stroke-width:0.264583">The Wonderful Wizard of Oz (1900)</text>
+    <text
+       x="127.5127"
+       y="23.790606"
+       font-family="'Courier New', monospace"
+       font-size="3.70417px"
+       fill="#2d6a4f"
+       text-anchor="middle"
+       id="text58"
+       style="stroke-width:0.264583">Public Domain Edition with Emerald Spectacles</text>
+    <g
+       id="toto"
+       transform="matrix(0.26458333,0,0,0.26458333,169.81475,118.27875)">
+      <path
+         d="m 10,25 q 15,-15 30,0 l 5,20 H 5 Z"
+         fill="#4a3b32"
+         stroke="#111111"
+         stroke-width="2"
+         id="path44-1" />
+      <circle
+         cx="15"
+         cy="18"
+         r="12"
+         fill="#4a3b32"
+         stroke="#111111"
+         stroke-width="2"
+         id="circle44" />
+      <!-- 귀 -->
+      <path
+         d="M 5,12 0,22 10,20 Z"
+         fill="#2b211b"
+         stroke="#111111"
+         stroke-width="1.5"
+         id="path45-5" />
+      <path
+         d="M 22,12 27,22 17,20 Z"
+         fill="#2b211b"
+         stroke="#111111"
+         stroke-width="1.5"
+         id="path46-9" />
+      <!-- 다리 & 꼬리 -->
+      <rect
+         x="8"
+         y="45"
+         width="6"
+         height="15"
+         fill="#2b211b"
+         stroke="#111111"
+         stroke-width="1.5"
+         id="rect46" />
+      <rect
+         x="30"
+         y="45"
+         width="6"
+         height="15"
+         fill="#2b211b"
+         stroke="#111111"
+         stroke-width="1.5"
+         id="rect47" />
+      <path
+         d="M 42,35 Q 55,25 50,15"
+         stroke="#2b211b"
+         stroke-width="4"
+         stroke-linecap="round"
+         fill="none"
+         id="path47-7" />
+      <!-- 토토 안경 -->
+      <circle
+         cx="10"
+         cy="18"
+         r="5"
+         fill="#2ec4b6"
+         fill-opacity="0.6"
+         stroke="#1b4332"
+         stroke-width="1.5"
+         id="circle47" />
+      <circle
+         cx="20"
+         cy="18"
+         r="5"
+         fill="#2ec4b6"
+         fill-opacity="0.6"
+         stroke="#1b4332"
+         stroke-width="1.5"
+         id="circle48" />
+    </g>
+    <g
+       id="g60-8"
+       transform="matrix(0.18129794,0,0,0.18129794,163.50821,-28.019418)"
+       style="stroke-width:5.97554;stroke-dasharray:none">
+      <g
+         id="legs-and-shoes-8-9"
+         transform="translate(-283.67807,399.78582)"
+         style="stroke-width:5.97554;stroke-dasharray:none">
+        <!-- 왼쪽 다리 -->
+        <rect
+           x="215"
+           y="420"
+           width="18"
+           height="75"
+           fill="#ffe3d8"
+           stroke="#1a1a1a"
+           stroke-width="2.5"
+           rx="3"
+           id="rect8-8-7"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <!-- 오른쪽 다리 -->
+        <rect
+           x="247"
+           y="420"
+           width="18"
+           height="75"
+           fill="#ffe3d8"
+           stroke="#1a1a1a"
+           stroke-width="2.5"
+           rx="3"
+           id="rect9-5-7"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <!-- 왼쪽 은구두 -->
+        <!-- 오른쪽 은구두 -->
+        <g
+           id="g61-6"
+           transform="translate(0,6)"
+           style="stroke-width:5.97554;stroke-dasharray:none">
+          <path
+             d="m 195,485 c 0,-15 35,-15 38,5 h -38 z"
+             fill="url(#silverShoe)"
+             stroke="#2c3e50"
+             stroke-width="2.5"
+             id="path9-0-0-4"
+             style="fill:url(#linearGradient63);stroke-width:5.97554;stroke-dasharray:none" />
+          <circle
+             cx="218"
+             cy="480"
+             r="3.5"
+             fill="#ffffff"
+             stroke="#37474f"
+             stroke-width="1"
+             id="circle9-9-3"
+             style="stroke-width:5.97554;stroke-dasharray:none" />
+          <path
+             d="m 247,490 c 3,-20 38,-20 38,-5 z"
+             fill="url(#silverShoe)"
+             stroke="#2c3e50"
+             stroke-width="2.5"
+             id="path10-3-6-0"
+             style="fill:url(#linearGradient64);stroke-width:5.97554;stroke-dasharray:none" />
+          <circle
+             cx="262"
+             cy="480"
+             r="3.5"
+             fill="#ffffff"
+             stroke="#37474f"
+             stroke-width="1"
+             id="circle10-3-3"
+             style="stroke-width:5.97554;stroke-dasharray:none" />
+        </g>
+      </g>
+      <g
+         id="skirt-8-0"
+         transform="translate(-283.67807,399.78582)"
+         style="stroke-width:5.97554;stroke-dasharray:none">
+        <!-- 겉 치마 (A라인) -->
+        <path
+           d="m 210,280 h 60 l 45,145 H 165 Z"
+           fill="#ffffff"
+           stroke="#1a1a1a"
+           stroke-width="3"
+           id="path11-6-5-9"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <!-- 체크무늬 패널 -->
+        <path
+           d="m 220,280 h 40 l 35,145 H 185 Z"
+           fill="#a8dadc"
+           stroke="#457b9d"
+           stroke-width="2"
+           id="path12-1-6-2"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <path
+           d="m 165,425 q 75,15 150,0"
+           fill="none"
+           stroke="#1a1a1a"
+           stroke-width="3"
+           id="path13-0-1-5"
+           style="fill:#f9f9f9;stroke-width:5.97554;stroke-dasharray:none" />
+      </g>
+      <g
+         id="neck-section-1-4"
+         transform="translate(-283.67807,399.78582)"
+         style="stroke-width:5.97554;stroke-dasharray:none">
+        <!-- 목 피부 -->
+        <rect
+           x="231"
+           y="170"
+           width="18"
+           height="28"
+           fill="#ffe3d8"
+           stroke="#1a1a1a"
+           stroke-width="2.5"
+           rx="2"
+           id="rect13-5-0"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <!-- 목 음영 (턱 밑) -->
+        <path
+           d="m 231,172 q 9,8 18,0"
+           fill="none"
+           stroke="#e8b4b8"
+           stroke-width="2"
+           id="path14-6-9-5"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <!-- 드레스 넥라인 (U자형 카라로 목선이 시원하게 보이도록 처리) -->
+        <path
+           d="m 215,195 q 25,20 50,0"
+           fill="#ffffff"
+           stroke="#1a1a1a"
+           stroke-width="2.5"
+           id="path15-3-8-9"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+      </g>
+      <g
+         id="bodice-4-4"
+         transform="translate(-283.67807,399.78582)"
+         style="stroke-width:5.97554;stroke-dasharray:none">
+        <path
+           d="m 215,195 h 50 l 5,85 h -60 z"
+           fill="#457b9d"
+           stroke="#1a1a1a"
+           stroke-width="3"
+           id="path16-7-8-6"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <!-- 앞치마 멜빵 끈 -->
+        <line
+           x1="225"
+           y1="195"
+           x2="228"
+           y2="280"
+           stroke="#ffffff"
+           stroke-width="5"
+           id="line16-1-9"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <line
+           x1="225"
+           y1="195"
+           x2="228"
+           y2="280"
+           stroke="#1a1a1a"
+           stroke-width="1"
+           id="line17-0-2"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <line
+           x1="255"
+           y1="195"
+           x2="252"
+           y2="280"
+           stroke="#ffffff"
+           stroke-width="5"
+           id="line18-3-2"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <line
+           x1="255"
+           y1="195"
+           x2="252"
+           y2="280"
+           stroke="#1a1a1a"
+           stroke-width="1"
+           id="line19-0-4"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+      </g>
+      <g
+         id="arms-section-4-7"
+         transform="translate(-283.67807,399.78582)"
+         style="stroke-width:5.97554;stroke-dasharray:none">
+        <!-- 퍼프 반소매 (짧게 만들어 팔 노출) -->
+        <path
+           d="m 215,195 q -20,10 -15,30 15,5 20,-15 z"
+           fill="#ffffff"
+           stroke="#1a1a1a"
+           stroke-width="2.5"
+           id="path19-2-4-7"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <path
+           d="m 265,195 q 20,10 15,30 -15,5 -20,-15 z"
+           fill="#ffffff"
+           stroke="#1a1a1a"
+           stroke-width="2.5"
+           id="path20-0-4-5"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <!-- 왼쪽 팔 (살짝 바깥으로 들고 있는 다정한 포즈) -->
+        <path
+           d="m 203,220 q -28,30 -38,70 10,5 18,0 9,-35 32,-62 z"
+           fill="#ffe3d8"
+           stroke="#1a1a1a"
+           stroke-width="2.5"
+           id="path21-6-4-4"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <!-- 왼쪽 손 -->
+        <circle
+           cx="172"
+           cy="295"
+           r="10"
+           fill="#ffe3d8"
+           stroke="#1a1a1a"
+           stroke-width="2.5"
+           id="circle21-7-8"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <!-- 오른쪽 팔 (허리에 살짝 대거나 유쾌하게 벌린 포즈) -->
+        <path
+           d="m 277,220 q 28,30 38,70 -10,5 -18,0 -9,-35 -32,-62 z"
+           fill="#ffe3d8"
+           stroke="#1a1a1a"
+           stroke-width="2.5"
+           id="path22-1-6-1"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <!-- 오른쪽 손 -->
+        <circle
+           cx="308"
+           cy="295"
+           r="10"
+           fill="#ffe3d8"
+           stroke="#1a1a1a"
+           stroke-width="2.5"
+           id="circle22-3-2"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+      </g>
+      <g
+         id="head-and-hair-1-8"
+         transform="translate(-283.67807,429.78582)"
+         style="stroke-width:5.97554;stroke-dasharray:none">
+        <!-- 왼쪽 땋은 머리 -->
+        <!-- 왼쪽 땋은 머리 리본 -->
+        <!-- 오른쪽 땋은 머리 -->
+        <!-- 오른쪽 땋은 머리 리본 -->
+        <!-- 얼굴 윤곽 -->
+        <circle
+           cx="240"
+           cy="120"
+           r="32"
+           fill="#ffe3d8"
+           stroke="#1a1a1a"
+           stroke-width="3"
+           id="circle28-6-7-1"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <!-- 앞머리 -->
+        <!-- 이목구비 -->
+        <circle
+           cx="228"
+           cy="122"
+           r="3.5"
+           fill="#1a1a1a"
+           id="circle29-5-5"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <!-- 왼쪽 눈 -->
+        <circle
+           cx="252"
+           cy="122"
+           r="3.5"
+           fill="#1a1a1a"
+           id="circle30-3-7-1"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <!-- 오른쪽 눈 -->
+        <!-- 볼터치 -->
+        <circle
+           cx="222"
+           cy="130"
+           r="5"
+           fill="#ffb5a7"
+           opacity="0.6"
+           id="circle31-7-4-1"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <circle
+           cx="258"
+           cy="130"
+           r="5"
+           fill="#ffb5a7"
+           opacity="0.6"
+           id="circle32-4-1-0"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <!-- 미소 입 -->
+        <path
+           d="m 233,136 q 7,7 14,0"
+           fill="none"
+           stroke="#e63946"
+           stroke-width="2.5"
+           stroke-linecap="round"
+           id="path32-5-8-8"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <path
+           d="m 210.68033,95.611262 c -12,29.999998 3,59.999998 3,69.999998"
+           stroke="#5c3d2e"
+           stroke-width="8"
+           stroke-linecap="round"
+           fill="none"
+           id="path38-2-3"
+           sodipodi:nodetypes="cc"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <path
+           d="m 267.46266,99.648676 c 12,30.000004 -3,60.000004 -3,70.000004"
+           stroke="#5c3d2e"
+           stroke-width="8"
+           stroke-linecap="round"
+           fill="none"
+           id="path38-2-9"
+           sodipodi:nodetypes="cc"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <path
+           d="m 265.43044,92.833051 c 10.1753,6.316654 10.45763,51.276929 16.9642,67.979519"
+           style="fill:none;stroke:#5c3d2e;stroke-width:5.97554;stroke-linecap:round;stroke-dasharray:none"
+           id="path1-6" />
+        <path
+           d="m 205.68205,93.61103 c -10.1753,6.316654 -10.45763,51.27692 -16.9642,67.97951"
+           style="fill:none;stroke:#5c3d2e;stroke-width:5.97554;stroke-linecap:round;stroke-dasharray:none"
+           id="path1-6-0" />
+        <path
+           d="m 210.98234,94.289568 c -17.7993,26.966362 -9.1525,59.373662 -11.16766,69.168512"
+           style="fill:none;stroke:#5c3d2e;stroke-width:5.97554;stroke-linecap:round;stroke-dasharray:none"
+           id="path1-9" />
+        <path
+           d="m 249.20752,87.834533 c -32.24893,2.001597 -45.93586,5.952025 -49.9032,60.929127"
+           style="fill:none;stroke:#5c3d2e;stroke-width:5.97554;stroke-linecap:round;stroke-dasharray:none"
+           id="path1-9-8"
+           sodipodi:nodetypes="cc" />
+        <path
+           d="m 231.71487,88.305763 c 18.43994,1.144513 31.89284,3.26583 43.96304,18.669407 6.34351,8.09536 -0.58488,56.84178 3.2847,58.67531"
+           style="fill:none;stroke:#5c3d2e;stroke-width:5.97554;stroke-linecap:round;stroke-dasharray:none"
+           id="path1-9-8-6"
+           sodipodi:nodetypes="csc" />
+        <path
+           d="m 240.31067,93.308753 c 18.43994,1.144513 31.89284,3.26583 43.96304,18.669407 6.34351,8.09536 -0.58488,56.84178 3.2847,58.67531"
+           style="fill:none;stroke:#5c3d2e;stroke-width:5.97554;stroke-linecap:round;stroke-dasharray:none"
+           id="path1-9-8-6-1"
+           sodipodi:nodetypes="csc" />
+        <path
+           d="m 253.4492,91.411127 c -18.43994,1.144513 -31.89284,3.26583 -43.96304,18.669403 -6.34351,8.09536 0.58488,56.84179 -3.2847,58.67532"
+           style="fill:none;stroke:#5c3d2e;stroke-width:5.97554;stroke-linecap:round;stroke-dasharray:none"
+           id="path1-9-8-6-14"
+           sodipodi:nodetypes="csc" />
+      </g>
+      <path
+         d="m -74.115691,536.28216 q 30,-23 60,0 -30,-10 -60,0 z"
+         fill="#5c3d2e"
+         stroke="#1a1a1a"
+         stroke-width="2"
+         id="path29-9-8-6"
+         style="stroke-width:5.97554;stroke-dasharray:none" />
+      <g
+         id="emerald-glasses-5-5"
+         filter="url(#glassShine)"
+         transform="translate(-283.67807,429.78582)"
+         style="stroke-width:5.97554;stroke-dasharray:none;filter:url(#glassShine-1-8-9-5)">
+        <!-- 안경테/렌즈 -->
+        <circle
+           cx="227"
+           cy="122"
+           r="13"
+           fill="#2ec4b6"
+           fill-opacity="0.6"
+           stroke="#1b4332"
+           stroke-width="3"
+           id="circle33-9-0"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <circle
+           cx="253"
+           cy="122"
+           r="13"
+           fill="#2ec4b6"
+           fill-opacity="0.6"
+           stroke="#1b4332"
+           stroke-width="3"
+           id="circle34-2-7-6"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <line
+           x1="240"
+           y1="122"
+           x2="240"
+           y2="122"
+           stroke="#1b4332"
+           stroke-width="3"
+           id="line34-5-4"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <!-- 안경다리 연결 -->
+        <!-- 안경 귀 걸이선 -->
+        <path
+           d="m 214,122 -6,-4 m 58,4 6,-4"
+           stroke="#1b4332"
+           stroke-width="2.5"
+           id="path34-5-3-6"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <!-- 정수리로 이어지는 녹색 안경 끈 & 리본 -->
+        <path
+           d="M 240,109 V 93"
+           stroke="#1b4332"
+           stroke-width="2"
+           id="path35-4-8-2"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+        <path
+           d="m 234,92 q 6,-7 12,0 -6,7 -12,0"
+           fill="#2ec4b6"
+           stroke="#1b4332"
+           stroke-width="2"
+           id="path36-7-8-5"
+           style="stroke-width:5.97554;stroke-dasharray:none" />
+      </g>
+    </g>
+  </g>
+</svg>
