@@ -1,6 +1,6 @@
-# 📖 My Oz Project (오즈 패밀리 프로젝트)
+# 📖 [My Oz Project](https://floating-monster.github.io/my-oz-project/) (오즈 프렌즈 프로젝트)
 
-This project is a public domain-based web service utilizing the original characters and illustrations from *The Wonderful Wizard of Oz* (1900).
+This project is a public domain-based web service utilizing the original story,characters and illustrations from *The Wonderful Wizard of Oz* (1900).
 
 ---
 
